@@ -93,7 +93,7 @@ module.exports = {
 		this.term.clear();
 
 		let center = Math.floor(this.game.world.width / 2);
-		let message = 'Samurai Roguelike';
+		let message = 'JavaScript Roguelike';
 		let x = center - Math.floor(message.length / 2);
 		let y = Math.floor(this.game.world.height / 2);
 

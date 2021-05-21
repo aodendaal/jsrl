@@ -5,7 +5,7 @@ module.exports = {
 	},
 	PEASANT: {
 		name: 'Peasant',
-		tile: new ut.Tile('@', 255, 255, 191),
+		tile: new ut.Tile('p', 255, 255, 191),
 		innocent: true
 	},
 	TROLL: {

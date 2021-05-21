@@ -1,7 +1,8 @@
 @charset "utf-8";
 
 .unicodetiles {
-	font-family: "DejaVuSansMono_ut";
+	font-family: "DejaVuSansMono_ut", "DejaVu Sans Mono", monospace;
+	font-size: x-large;
 	white-space: pre;
 	text-align: center;
 	line-height: 1;

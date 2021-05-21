@@ -157,7 +157,7 @@ ut.KEY_F12 = 123;
 ut.KEY_COMMA = 188;
 ut.KEY_DASH = 189;
 ut.KEY_PERIOD = 190;
-
+ut.KEY_FORWARDSLASH = 191;
 
 ut.pressedKeys = {};
 ut.keyRepeatDelay = 150;
